@@ -1,0 +1,4 @@
+Link de download: https://github.com/UB-Mannheim/tesseract/wiki
+
+Install python: pip install pytesseract
+

@@ -1,0 +1,5 @@
+'2021-05-16' : 'models/research/object_detection/test_images/2021-05-16.jpg',
+'teste' : 'models/research/object_detection/test_images/teste.jpg',
+"2021-05-16(3)" : 'models/research/object_detection/test_images/2021-05-16(3).jpg',
+"2021-05-16(4)" : 'models/research/object_detection/test_images/2021-05-16(4).jpg',
+"2021-05-16(5)" : 'models/research/object_detection/test_images/2021-05-16(5).jpg',

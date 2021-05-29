@@ -1,0 +1,8 @@
+Código usado de base: https://github.com/mailrocketsystems/AIComputerVision
+
+Link dos vídeos:
+https://www.youtube.com/watch?v=j4JVFNXUO8o
+
+https://www.youtube.com/watch?v=RG53-Qj6DaM
+
+https://www.youtube.com/watch?v=c3TPWWLJfRc
